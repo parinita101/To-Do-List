@@ -8,11 +8,6 @@
 A modern Todo List web application built using **React.js**. It allows users to manage daily tasks efficiently with a clean UI and persistent storage using browser localStorage.
 
 
-🚀 Live Demo
-
-🔗 https://your-app-link.netlify.app
-
-
 ✨ Features
 
 * Add new todos with title & description
@@ -71,5 +66,5 @@ This project is licensed under the **MIT License**.
 
 👨‍💻 Author
 
-Your Name
-GitHub: https://github.com/your-username
+Parinita Vishwakarma
+GitHub: https://github.com/parinita101
